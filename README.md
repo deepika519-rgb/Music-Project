@@ -1,9 +1,9 @@
-**Project Overview ** 
+Project Overview
 
 This project focuses on analyzing a digital music store database using SQL. The goal is to extract meaningful business insights related to customers, sales, 
 genres, and artists. The project demonstrates strong SQL skills including joins, aggregations, subqueries, Common Table Expressions (CTEs), and window functions.
 
-**Key Business Questions Solved**
+Key Business Questions Solved
 
 Who is the senior-most employee based on job title?
 Which countries generate the most invoices?
@@ -17,7 +17,7 @@ Customer spending on the best-selling artist.
 Most popular genre by country.
 Top-spending customer in each country.
 
-**Key Insights**
+Key Insights
 
 Identified high-revenue cities for targeted promotions.
 Found top customers contributing maximum revenue.
